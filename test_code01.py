@@ -1,4 +1,4 @@
 # Test code
 
-print "Hello KK - EDI City"
+print "Hello KK, Merry Christmas! - EDI City"
 
